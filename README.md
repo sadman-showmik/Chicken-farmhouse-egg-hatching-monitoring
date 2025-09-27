@@ -57,6 +57,13 @@ This project is an **Arduino-based smart system** designed to monitor and contro
 3. **Mobile notifications via Blynk IoT:** Sends alerts when light is too low or too high.  
 4. **Adjustable thresholds:** LIGHT_LOW = 300, LIGHT_HIGH = 700 (can be modified in code).  
 
+## Project Design Files
+
+All design-related files are in the [`design/`](design/) folder:
+
+- Breadboard and circuit screenshots
+- Electrical design file (`.brd`)
+- Tinkercad simulation link (`Tinkercad_link.txt`)
 ---
 
 ## 💻 Arduino Code
